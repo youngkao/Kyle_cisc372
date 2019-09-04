@@ -54,6 +54,7 @@ Linux Users: you shouldn't have to do anything.
 
 
 
+<<<<<<< HEAD
 Next, you will log on to cisc372.cis.udel.edu. If you are doing this
 
 from off campus, you will have to first turn on the UD VPN (Cisco
