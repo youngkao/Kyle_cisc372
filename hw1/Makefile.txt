@@ -1,0 +1,15 @@
+run: kyle_hello
+
+	./kyle_hello
+
+
+
+kyle_hello: kyle_hello.c
+
+	gcc -o kyle_hello kyle_hello.c 
+
+
+
+clean:
+
+	rm -f kyle_hello *~
